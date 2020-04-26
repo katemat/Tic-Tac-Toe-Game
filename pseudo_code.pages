@@ -1,0 +1,22 @@
+Tic Tac Toe Game
+
+2 players - > create option to select Player ('X' or '0')
+create 3x3 grid (table) with clickable cells, each cell has own position (id to save position)
+
+set winning combinations (array of arrays)
+
+X-Player begin the game -> click on any empty cell -> X appears
+switch turn-> 0-Player click on other empty cell -> 0 appears
+
+every turn (? should start checking if the first player done 3 turns or more) check if any of 'winning combinations' met:
+
+if (arrOfFirstPlayerSelectedCells. includes (any winningCombination) {
+    message.textContent = '?-Player is the winner'
+    call the function ResetBoard()
+}
+
+give option to Restart Game at any time:
+button Restart, when clicked call function ResetBoard
+
+
+
