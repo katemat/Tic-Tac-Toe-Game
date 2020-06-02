@@ -1,7 +1,7 @@
 # Rock - Paper - Scissors 
 ## Tic Tac Toe Game
 
-[Try and Win](tps://katemat.github.io/Tic-Tac-Toe-Game//)
+[Try and Win](https://katemat.github.io/Tic-Tac-Toe-Game//)
 
 ---
 
