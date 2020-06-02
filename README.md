@@ -1,7 +1,7 @@
 # Rock - Paper - Scissors 
 ## Tic Tac Toe Game
 
-[Try and Win](https://pages.git.generalassemb.ly/Katerina/Project-1---Tic-tac-toe-Game/)
+[Try and Win](tps://katemat.github.io/Tic-Tac-Toe-Game//)
 
 ---
 
@@ -39,8 +39,8 @@ This game is a simple Javascript web application, a digital version of well-know
  
  ### How it was done
  * started with simple steps, breaking big problem into small tasks
- * constantly use development tools (console.log) to debug and fix any small bug before it grow :)
- * have a lot of coffee and a walk outside (avoid any contact with outside world lol, social distance rule applies :)
+ * constantly used development tools (console.log) to debug and fix any small bugs before it grow :)
+ * have a lot of coffee and a walk outside (avoid any contact with outside world lol, social distance rules applies  due to COVID-19 :(
  
  ---
  
